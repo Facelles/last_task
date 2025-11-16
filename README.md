@@ -303,13 +303,3 @@ Created by Facelles
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## ✨ Future Enhancements
-
-- [ ] Email notifications for booking confirmations
-- [ ] Calendar view for bookings
-- [ ] Room capacity management
-- [ ] Meeting participants management
-- [ ] Booking reminders
-- [ ] Export bookings to calendar (iCal)
-- [ ] Real-time notifications with WebSockets
-- [ ] Advanced filtering and search
